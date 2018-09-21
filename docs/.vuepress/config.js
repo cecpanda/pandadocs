@@ -9,7 +9,7 @@ module.exports = {
     nav: [
       { text: 'TITAN', link: '/titan/' },
       { text: '停机管理', link: '/lantern/' },
-      // { text: '停机管理系统', link: 'http://10.53.141.252' },
+      { text: '下载中心', link: '/downloads/' },
       {
         text: 'CHART',
         items: [

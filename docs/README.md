@@ -13,6 +13,3 @@ features:
 footer: Copyright © 2018-present cecpandalcd
 ---
 
-#### 火狐浏览器
-
-[火狐浏览器](/docs/Firefox_Setup_44.0.2.exe)
