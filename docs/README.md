@@ -13,8 +13,6 @@ features:
 footer: Copyright © 2018-present cecpandalcd
 ---
 
-#### 1
-<img src="/docs/logo.jpg">
+#### 火狐浏览器
 
-#### 2
-<img :src="$withBase('/logo.jpg')">
+[火狐浏览器](/docs/Firefox_Setup_44.0.2.exe)
